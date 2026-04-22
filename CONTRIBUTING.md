@@ -41,7 +41,7 @@ Small fixes, such as typos or bug fixes, can be submitted directly via a pull re
 
 ## Large changes or a new notebook
 
-Before you send a PR, or even write a single line, please file an [issue](https://github.com/google-gemini/gemma-cookbook/issues). There we can discuss the request and provide guidance about how to structure any content you write.
+Before you send a PR, or even write a single line, please file an [issue](https://github.com/kelechieucheagwu98-cell/cookbook/issues). There we can discuss the request and provide guidance about how to structure any content you write.
 
 Adding a new guide often involves lots of detailed reviews and we want to make sure that your idea is fully formed and has full support before you start writing anything. Please also check the table of contents first to avoid duplicating existing work. If you want to port an existing guide across (e.g. if you have a guide for Gemma on your own GitHub), feel free to link to it in the issue.
 
